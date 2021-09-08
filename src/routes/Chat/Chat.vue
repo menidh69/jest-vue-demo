@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>
-      Better Globoticket Customer Service Chat
+      Even Better Globoticket Customer Service Chat
     </h1>
 
     <div class="card mb-3">
